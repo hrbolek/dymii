@@ -1,0 +1,22 @@
+{
+  "name": "dymii",
+  "version": "0.0.0",
+  "description": "dymii",
+  "main": "server.ts",
+  "author": {
+    "name": "minip"
+  },
+  "dependencies": {
+    "@types/express": "^4.0.39",
+    "@types/react": "^16.0.18",
+    "awesome-typescript-loader": "^3.2.3",
+    "babel-loader": "^7.1.2",
+    "express": "^4.16.2",
+    "express-react-views": "^0.10.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "typescript": "^2.5.3",
+    "webpack": "^3.8.1",
+    "webpack-dev-middleware": "^1.12.0"
+  }
+}
